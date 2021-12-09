@@ -1,5 +1,6 @@
 ### Hi there 👋  
-✨    
+✨  
+
 🌱 currently looking for a full-time/part-time/contract full stack position...  
 💬 Ask me anything about the MERN stack!   
 ⚡ Fun fact: Former rank 1 Anivia in NA  
