@@ -1,13 +1,13 @@
 ### Hi there 👋  
 ✨  
 
-🌱 currently looking for a full-time/part-time/contract full stack position...  
-💬 Ask me anything about the MERN stack!   
-⚡ Fun fact: Former rank 1 Anivia in NA  
-🤔 Always willing to learn   
+   🌱 currently looking for a full-time/part-time/contract full stack position...  
+   💬 Ask me anything about the MERN stack!   
+  ⚡ Fun fact: Former rank 1 Anivia in NA  
+  🤔 Always willing to learn   
 
-Familiar with these technologies (but not limited to!)    
-![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/145445677-65dc4454-c176-4d1e-a0d0-ffe78d5707f9.png)
+  Familiar with these technologies (but not limited to!)    
+  ![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/145445677-65dc4454-c176-4d1e-a0d0-ffe78d5707f9.png)
 
 ✨  
 
