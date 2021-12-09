@@ -6,7 +6,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact: Former rank 1 Anivia in NA  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 Always willing to learn   
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these technologies (but not limited to!)    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these technologies (but not limited to!)
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/145445677-65dc4454-c176-4d1e-a0d0-ffe78d5707f9.png)
 
 ✨  
