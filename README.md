@@ -4,6 +4,9 @@
 ##💬 Ask me anything about the MERN stack!   
 ##⚡ Fun fact: Former rank 1 Anivia in NA  
 ##🤔 Always willing to learn   
+
+Familiar with these technologies (but not limited to!)
+![technologies](./Images/resumessforgithubreadme.png)
 ✨  
 
 <!--
