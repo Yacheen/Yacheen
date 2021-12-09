@@ -1,10 +1,10 @@
-### Hi there 👋
-✨
-##🌱 currently looking for a full-time/part-time/contract full stack position...
-##💬 Ask me anything about the MERN stack! 
-##⚡ Fun fact: Former rank 1 Anivia in NA
-##🤔 Always willing to learn 
-✨
+### Hi there 👋  
+✨  
+##🌱 currently looking for a full-time/part-time/contract full stack position...  
+##💬 Ask me anything about the MERN stack!   
+##⚡ Fun fact: Former rank 1 Anivia in NA  
+##🤔 Always willing to learn   
+✨  
 
 <!--
 **Yacheen/Yacheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
