@@ -6,7 +6,8 @@
 ##🤔 Always willing to learn   
 
 Familiar with these technologies (but not limited to!)
-![technologies](./Images/resumessforgithubreadme.png)
+![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/145445677-65dc4454-c176-4d1e-a0d0-ffe78d5707f9.png)
+
 ✨  
 
 <!--
