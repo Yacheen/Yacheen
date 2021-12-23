@@ -8,7 +8,8 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these technologies (but not limited to!)
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/147167436-c61abae5-4fc1-4330-88c0-3658f3ac5420.png)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/147170042-e8255824-3f6d-439a-bf62-6af4bdb0d364.png)
+
 
 
 ✨  
