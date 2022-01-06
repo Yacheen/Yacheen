@@ -1,10 +1,9 @@
 ### Hi there 👋  
 ✨  
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 currently looking for a full-time/part-time/contract full stack position...  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Ask me anything about the MERN stack!   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Currently using/improving on the MERN stack   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact: Former rank 1 Anivia in NA  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 Always willing to learn   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 Learning every day 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these technologies (but not limited to!)
   
