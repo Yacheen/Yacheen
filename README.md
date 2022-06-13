@@ -1,11 +1,10 @@
 ### Hi there 👋  
 ✨  
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Currently using/improving on the MERN stack   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Currently working for See Sight Tours as a Junior developer   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact: Former rank 1 Anivia in NA  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 Learning every day 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these technologies (but not limited to!)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiar with these tools & techs
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![resumessforgithubreadme](https://user-images.githubusercontent.com/81421290/147170042-e8255824-3f6d-439a-bf62-6af4bdb0d364.png)
 
