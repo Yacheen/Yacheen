@@ -1,7 +1,7 @@
 ### Hi!
 ✨  
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Currently working for See Sight Tours as a developer   
+  I hecking love rust BatChest
 
 
 ✨  
