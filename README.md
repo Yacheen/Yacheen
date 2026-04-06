@@ -1,3 +1,5 @@
-  Currently working on a site that allows people to create areas (like subreddits), which contain liveposts where users may live group call with audio, video, and screenshare about topics
- 
-   ![image](https://github.com/Yacheen/Yacheen/assets/81421290/01994fa6-2f96-4b79-994b-0b9feca0c300)
+I like doing networking/webrtc stuff with rust
+
+Created Quickchatters.com (Its like Discord + Reddit + Omegle)
+Created Browsem (chrome extension) (Call with anyone on the same URL, audio and video)
+Created a handheld video player (3 screens, navigate through an SD card)
