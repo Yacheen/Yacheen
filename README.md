@@ -1,3 +1,5 @@
+Currently working on two small electronic devices (ESP32 with C, and RP2040 in Rust) that connect to your wifi. ESP32 Streams video to a tcp/udp server in rust, and the RP2040 views the footage (albeit at only 5fps on a 320x240 screen, what can ya do with only 264KB of ram?)
+
 I like doing networking/webrtc stuff, and systems/general purpose programming languages
 
 Created Quickchatters.com (Its like Discord + Reddit + Omegle)
